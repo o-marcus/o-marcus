@@ -1,16 +1,26 @@
-### Hi there 👋
+# Olá, eu sou o Marcus Vinicius
+## Sobre Mim
+Sou um desenvolvedor de software com foco em Java. Minha jornada no mundo da programação começou com um fascínio pela criação de soluções que impactam positivamente a vida das pessoas. Estou sempre em busca de aprimorar minhas habilidades e explorar novas tecnologias.
 
-<!--
-**o-marcus/o-marcus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Habilidades e Expertise
 
-Here are some ideas to get you started:
+- **Linguagens de Programação:** Java, C#, Kotlin, Typescript.
+- **Backend:** Desenvolvimento de APIs robustas, gerenciamento de banco de dados e integração de sistemas.
+- **Frontend:** Criação de interfaces responsivas e atraentes para uma experiência de usuário excepcional.
+- **Algumas Ferramentas e Frameworks:** Spring Framework, Angular, Bootstrap, Tailwindscss, Android Studio, Intellij
+- **Metodologias:** Sou um adepto das práticas ágeis, buscando entregas eficientes e iterativas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos Destacados
+
+### Aplicativo de resolução de sistemas lineares (Kotlin, Android Studio)
+
+Uma solução completa para resolver sistemas lineares, permitindo aos usuários acompanhar as operações matemáticas realizadas sobre as linhas de uma matriz. Desenvolvido nativamente usando Kotlin. https://play.google.com/store/apps/details?id=com.viniciusmello.escalonamento
+
+## Contato
+
+- LinkedIn: https://www.linkedin.com/in/o-marcus
+- E-mail: o-marcus@hotmail.com
+
+Estou sempre em busca de novos desafios e oportunidades de colaboração. Se você estiver interessado em trabalhar juntos ou tiver alguma pergunta, não hesite em entrar em contato!
+
+_“Criatividade é apenas conectar as coisas” (Steve Jobs)._ 🚀
