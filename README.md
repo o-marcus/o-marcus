@@ -1,25 +1,14 @@
 # Olá, eu sou o Marcus Vinicius
 ## Sobre Mim
-Sou um desenvolvedor de software com foco em Java. Minha jornada no mundo da programação começou com um fascínio pela criação de soluções que impactam positivamente a vida das pessoas. Estou sempre em busca de aprimorar minhas habilidades e explorar novas tecnologias.
 
-## Habilidades e Expertise
+Sou autodidata, sempre buscando aprender algo novo. Tenho interesse em explorar tecnologias modernas e aprimorar minhas habilidades em desenvolvimento de software. Gosto de contribuir com a comunidade de desenvolvedores através do LinkedIn e de eventos, como participante ou palestrante.
 
-- **Linguagens de Programação:** Java, C#, Kotlin, Typescript.
-- **Backend:** Desenvolvimento de APIs robustas, gerenciamento de banco de dados e integração de sistemas.
-- **Frontend:** Criação de interfaces responsivas e atraentes para uma experiência de usuário excepcional.
-- **Algumas Ferramentas e Frameworks:** Spring Framework, Angular, Bootstrap, Tailwindscss, Android Studio, Intellij
-- **Metodologias:** Sou um adepto das práticas ágeis, buscando entregas eficientes e iterativas.
-
-## Projetos Destacados
-
-### Aplicativo de resolução de sistemas lineares (Kotlin, Android Studio)
-
-Uma solução completa para resolver sistemas lineares, permitindo aos usuários acompanhar as operações matemáticas realizadas sobre as linhas de uma matriz. Desenvolvido nativamente usando Kotlin. https://play.google.com/store/apps/details?id=com.viniciusmello.escalonamento
+Desenvolvedor de software com sólida experiência em Java e Kotlin, especializado em microsserviços. Possuo conhecimentos profundos em Domain-Driven Design (DDD), arquitetura hexagonal e soluções escaláveis com alta disponibilidade, além de conhecimentos em bancos de dados NoSQL como MongoDB. Experiência em infraestruturas com Docker e Kubernetes, além de orquestração de contêineres.
 
 ## Contato
 
 - LinkedIn: https://www.linkedin.com/in/o-marcus
-- E-mail: o-marcus@hotmail.com
+- E-mail: marcus-mello@outlook.com
 
 Estou sempre em busca de novos desafios e oportunidades de colaboração. Se você estiver interessado em trabalhar juntos ou tiver alguma pergunta, não hesite em entrar em contato!
 
