@@ -1,15 +1,19 @@
 # Olá, eu sou o Marcus Vinicius
 ## Sobre Mim
 
-Sou autodidata, sempre buscando aprender algo novo. Tenho interesse em explorar tecnologias modernas e aprimorar minhas habilidades em desenvolvimento de software. Gosto de contribuir com a comunidade de desenvolvedores através do LinkedIn e de eventos, como participante ou palestrante.
+Software Developer with experience in Java and Kotlin, specialized in developing microservices and high-availability scalable solutions. I have expertise in software development best practices, including Clean Architecture, Hexagonal Architecture, CI/CD, TDD (Test-Driven Development), DDD (Domain-Driven Design), and messaging systems (Kafka/RabbitMQ).
 
-Desenvolvedor de software com sólida experiência em Java e Kotlin, especializado em microsserviços. Possuo conhecimentos profundos em Domain-Driven Design (DDD), arquitetura hexagonal e soluções escaláveis com alta disponibilidade, além de conhecimentos em bancos de dados NoSQL como MongoDB. Experiência em infraestruturas com Docker e Kubernetes, além de orquestração de contêineres.
+ Additionally, I have solid knowledge of NoSQL databases (MongoDB) and SQL databases (Oracle), as well as experience in infrastructure management using Docker and Kubernetes for container orchestration. I am committed to applying best practices to create robust and efficient solutions.
+_______________________________________________________________________________________________________________
 
+Desenvolvedor de software com experiência em Java e Kotlin, especializado no desenvolvimento de microsserviços e soluções escaláveis de alta disponibilidade. Possuo conhecimento nas melhores práticas de desenvolvimento de software, incluindo Clean Architecture, Arquitetura Hexagonal, CI/CD, TDD (Test-Driven Development), DDD (Domain-Driven Design) e mensageria (Kafka/RabbitMQ).
+
+ Além disso, tenho conhecimento sólido em bancos de dados NoSQL (MongoDB) e SQL (Oracle), bem como experiência em infraestrutura com Docker e Kubernetes para orquestração de contêineres. Comprometido com a aplicação de melhores práticas para criar soluções robustas e eficientes.
+
+e-mail: marcus-mello@outlook.com
 ## Contato
 
 - LinkedIn: https://www.linkedin.com/in/o-marcus
 - E-mail: marcus-mello@outlook.com
-
-Estou sempre em busca de novos desafios e oportunidades de colaboração. Se você estiver interessado em trabalhar juntos ou tiver alguma pergunta, não hesite em entrar em contato!
 
 _“Criatividade é apenas conectar as coisas” (Steve Jobs)._ 🚀
