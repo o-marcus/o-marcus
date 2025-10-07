@@ -10,7 +10,6 @@ Desenvolvedor de software com experiência em Java e Kotlin, especializado no de
 
  Além disso, tenho conhecimento sólido em bancos de dados NoSQL (MongoDB) e SQL (Oracle), bem como experiência em infraestrutura com Docker e Kubernetes para orquestração de contêineres. Comprometido com a aplicação de melhores práticas para criar soluções robustas e eficientes.
 
-e-mail: marcus-mello@outlook.com
 ## Contato
 
 - LinkedIn: https://www.linkedin.com/in/o-marcus
