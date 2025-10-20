@@ -11,5 +11,3 @@ Software developer with experience in Java and Kotlin, specializing in the devel
 - Email: marcus-mello@outlook.com
 
 _“Creativity is just connecting things” (Steve Jobs)._ 🚀
-
-Translated with DeepL.com (free version)
